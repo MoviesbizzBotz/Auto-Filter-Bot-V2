@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🤖HOW TO MAKE BOT🤖', url="https://t.me/CrazyBotsz"
+                                    '🤖HOW TO MAKE BOT🤖', url="https://youtu.be/arLXQscl4yo"
                                 )
                         ]
                     ]
