@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developer', url='https://t.me/crizzbizzyt'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/moviesbizzbotz')
+        InlineKeyboardButton('Support Group🛠', url='https://t.me/moviesbizzbotz')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
